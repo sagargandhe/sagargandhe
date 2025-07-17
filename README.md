@@ -1,7 +1,6 @@
 <h2 align="center">✨ Hola, I'm Sagar 👋</h2>
 
 <p align="center">
-   <img src="https://github.com/sagargandhe/sagargandhe/blob/main/myphoto.jpg?raw=true" width="200" />
   <a href="https://www.linkedin.com/in/sagar-gandhe-016750233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
