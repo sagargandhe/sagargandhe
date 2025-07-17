@@ -23,7 +23,7 @@
 - 😄 Pronouns: **He/Him**
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Your+Profile+Image+Here" width="400" />
+  <img src="[https://via.placeholder.com/400x200.png?text=Your+Profile+Image+Here" width="400](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdydHVkNWExNmVvaDd3NXdiazQzajdndmp6Z243eHRydGs2ZjF3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif)" />
 </p>
 
 ---
