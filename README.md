@@ -1,3 +1,4 @@
+
 <h2 align="center">✨ Hola, I'm Sagar 👋</h2>
 
 <p align="center">
@@ -13,14 +14,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🧑‍💻 I am a Front-End Developer from India 🇮🇳
-- 🔭 Currently working on Front-End Development
-- ⚛️ Fell in love with React.js
-- 🌱 Currently learning JavaScript frameworks & backend tech
-- 👯 Looking to collaborate on UI/UX and Web Development projects
-- 💬 Ask me anything here! I'm happy to help
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Best Part Of The Journey Is: *It Ends.*
+- 🧑‍💻I am a Front-End Developer 🖥️ from India 🇮🇳
+
+- 🔭 I'm currently working on **Front-End Development**
+- 💙 Fell in love with **React.js**
+- 🌱 I'm currently learning **JavaScript Frameworks & Backend technologies**
+- 👯 I'm looking to collaborate on **UI/UX and Web Development**
+- 😄 Pronouns: **He/Him**
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Your+Profile+Image+Here" width="400" />
+</p>
 
 ---
 
@@ -42,12 +46,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sagargandhe&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagargandhe&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargandhe&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📫 How to reach me
-<p>
-  <a href="mailto:gandhesagar2540@gmail.com"> 📧 gandhesagar2540@gmail.com </a><br/>
-  <a href="https://www.linkedin.com/in/sagar-gandhe-016750233/">🔗 LinkedIn Profile</a>
 </p>
