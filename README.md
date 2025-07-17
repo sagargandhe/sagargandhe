@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/37093547/file/original-a81fda6343ddfd24ef52a33e0eaf0fd4.gif" width="5px height=5px" />
+  <img src="https://cdn.dribbble.com/userupload/37093547/file/original-a81fda6343ddfd24ef52a33e0eaf0fd4.gif" width="10% height=10%" />
 </p>
 
 <h2 align="center">✨ Hola, I'm Sagar 👋</h2>
