@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td valign="top" width="70%">
+<td width="70%" valign="top">
 
 - 🧑‍💻 I am a Front-End Developer 🖥️ from India 🇮🇳  
 - 🔭 I'm currently working on **Front-End Development**  
@@ -31,11 +31,12 @@
 - 😄 Pronouns: **He/Him**
 
 </td>
-<td width="30%">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUh...QmCC" width="120"/>
+<td width="30%" valign="top">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAABLFBMVEX..." width="150"/>
 </td>
 </tr>
 </table>
+
 
 
 
