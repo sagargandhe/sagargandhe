@@ -20,9 +20,9 @@
 ## 🙋‍♂️ About Me
 
 <table>
-<tr>
-<td width="70%" valign="top">
-
+  <tr>
+    <td>
+      
 - 🧑‍💻 I am a Front-End Developer 🖥️ from India 🇮🇳  
 - 🔭 I'm currently working on **Front-End Development**  
 - 💙 Fell in love with **React.js**  
@@ -30,13 +30,12 @@
 - 👯 I'm looking to collaborate on **UI/UX and Web Development**  
 - 😄 Pronouns: **He/Him**
 
-</td>
-<td width="30%" valign="top">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAABLFBMVEX..." width="150"/>
-</td>
-</tr>
+    </td>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdydHVkNWExNmVvaDd3NXdiazQzajdndmp6Z243eHRydGs2ZjF3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="300" />
+    </td>
+  </tr>
 </table>
-
 
 
 
