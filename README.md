@@ -32,7 +32,7 @@
 
     </td>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hA6fVUN59NHg3H7WrzdosXgnhOCAA_a9GXXKkapV3wyIRWXAmYRat_M&s" width="250" />
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUh...<your full base64 string>...QmCC" width="250" />
 
     </td>
   </tr>
