@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 
 - 🧑‍💻 I am a Front-End Developer from India 🇮🇳
-- 🔭 Currently working on Full Stack Development
+- 🔭 Currently working on Front-End Development
 - ⚛️ Fell in love with React.js
 - 🌱 Currently learning JavaScript frameworks & backend tech
 - 👯 Looking to collaborate on UI/UX and Web Development projects
