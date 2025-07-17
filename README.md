@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🧑‍💻 I am a Full Stack Developer from India 🇮🇳
+- 🧑‍💻 I am a Front-End Developer from India 🇮🇳
 - 🔭 Currently working on Full Stack Development
 - ⚛️ Fell in love with React.js
 - 🌱 Currently learning JavaScript frameworks & backend tech
