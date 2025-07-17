@@ -32,7 +32,8 @@
 
     </td>
     <td>
-      <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdydHVkNWExNmVvaDd3NXdiazQzajdndmp6Z243eHRydGs2ZjF3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="300" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hA6fVUN59NHg3H7WrzdosXgnhOCAA_a9GXXKkapV3wyIRWXAmYRat_M&s" width="250" />
+
     </td>
   </tr>
 </table>
