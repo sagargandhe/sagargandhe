@@ -3,7 +3,6 @@
 </p>
 
 
-
 <h2 align="center">✨ Hola, I'm Sagar 👋</h2>
 <br/>
 <p align="center">
